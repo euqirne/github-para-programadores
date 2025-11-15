@@ -1,4 +1,5 @@
-#Iterar sobre diferentes estructuras de datos usando ciclos FOR
+#Para prueba GIT
+# Iterar sobre diferentes estructuras de datos usando ciclos FOR
 #Iterar sobre un string
 # for letra in "Este es un texto nuevo":
 #     print(letra)
